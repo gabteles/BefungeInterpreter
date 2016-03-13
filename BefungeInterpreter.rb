@@ -323,5 +323,5 @@ if $0 === __FILE__
 	# Eratosthenes' Sieve
 	interpreter = BefungeInterpreter.new("2>:3g\" \"-!v\\  g30          <\n |!`\"O\":+1_:.:03p>03g+:\"O\"`|\n @               ^  p3\\\" \":<\n2 234567890123456789012345678901234567890123456789012345678901234567890123456789")
 	interpreter.execute
-	puts interpreter.output #=> "Hello, World!"
+	puts interpreter.output #=> "2357111317192329313741434753596167717379"
 end
